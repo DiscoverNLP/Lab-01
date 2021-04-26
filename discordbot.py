@@ -1,5 +1,6 @@
 #/usr/bin/env python3
-# Code adapted from https://discordpy.readthedocs.io/
+# discord.py code adapted from https://discordpy.readthedocs.io/
+
 import re
 
 import discord
@@ -39,3 +40,6 @@ class RegexBot(discord.Client):
 if __name__ == "__main__":
     client = RegexBot()
     client.run(DISCORD_TOKEN)
+
+# Discover NLP course materials authored by Julie Medero, Xanda Schofield, and Richard Wicentowski
+# This work is licensed under a Creative Commons Attribution-ShareAlike 2.0 Generic License# https://creativecommons.org/licenses/by-sa/2.0/

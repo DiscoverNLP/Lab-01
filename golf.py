@@ -1,3 +1,4 @@
+# RegEx Golf: https://alf.nu/RegexGolf
 ## Name: 
 
 ## Basic Regexs
@@ -22,3 +23,6 @@ order = r""
 triples = r""
 glob = r""
 balance = r""
+
+# Discover NLP course materials authored by Julie Medero, Xanda Schofield, and Richard Wicentowski
+# This work is licensed under a Creative Commons Attribution-ShareAlike 2.0 Generic License# https://creativecommons.org/licenses/by-sa/2.0/

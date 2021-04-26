@@ -4,13 +4,11 @@ geometry: margin=1in
 fontsize: 12pt
 --- 
 
-# SlackBot Analysis
+# Discord Bot Analysis
 
 NLP Lab 01
 
 (Your Names Here) 
-
-Spring 2021
 
 ## Overview
 
@@ -18,7 +16,7 @@ Spring 2021
 
 ## Analysis
 
-### Example Scenario Where Our SlackBot Does Well
+### Example Scenario Where Our Bot Does Well
 
-### Example Scenario Where Our SlackBot Could Improve
+### Example Scenario Where Our Bot Could Improve
 
