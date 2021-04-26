@@ -5,7 +5,7 @@ import re
 import discord
 
 # This token can be found on the Bot page for your application
-DISCORD_TOKEN = 'Nzk5MDI4NDkzNDcxNDQ5MDk4.X_9nRg.2KDXl-Xebse-MYlq7hqA5s9GEDo'
+DISCORD_TOKEN = ''
 
 class RegexBot(discord.Client):
     """Bot that responds to chat messages on Discord."""
